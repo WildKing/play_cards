@@ -10,3 +10,8 @@
 4. you should have xampp server(apache) running on ur machine
 5. in your xampp localhost: "xampp/htdocs/" create another folder & file: "playing_cards/distribute-cards.php" and paste file distribute-cards.php from src folder of this application
 6. then try to run this react.js in ur localhost and test
+
+
+
+
+#==== there is file named SQL-tets.php for the SQL question
